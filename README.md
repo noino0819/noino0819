@@ -136,12 +136,12 @@
 <h3 align="center">📫 Contact & Social 📫</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/%EC%8B%9C%EC%96%B8-%EC%B5%9C-77b9a5248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/>
+  <a href="https://www.notion.so/ReadMe-734bca0ee960493fa8bcdb0917287927?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   </a>
-  </div>
+</div>
 
 ---
 
