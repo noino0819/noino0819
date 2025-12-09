@@ -5,7 +5,7 @@
 </div>
 
 ---
-<h2>이건 제 스택인데요.. </h2>
+<h2 align="center">이건 제 스택인데요.. </h2>
 <h3 align="center">💻 언어 및 핵심 프레임워크 (Languages & Frameworks)</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
