@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Read.Me</h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="100" height="100" />
-  <h3> 반가워요 ! 같이 하나씩 바꿔볼까요 ? </h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" alt="Hamburger" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/French%20Fries.png" alt="French Fries" width="25" height="25" />
-</div> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pizza.png" alt="Pizza" width="25" height="25" />
+  <h3> 반가워요 ! 같이 하나씩 바꿔볼까요 ? </h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" alt="Hamburger" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/French%20Fries.png" alt="French Fries" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pizza.png" alt="Pizza" width="25" height="25" />
+</div>
 
 
 <h2 align="center">이건 제 스택인데요.. </h2>
