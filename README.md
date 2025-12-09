@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40" alt="vite logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
@@ -68,20 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" height="40" alt="AWS S3 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" height="40" alt="AWS EC2 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" height="40" alt="AWS RDS logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CloudFront-FF4A00?style=for-the-badge&logo=amazon-cloudfront&logoColor=white" height="40" alt="CloudFront logo" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/CodeCommit-FF7F00?style=for-the-badge&logo=codecommit&logoColor=white" height="40" alt="CodeCommit logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CodePipeline-FF7F00?style=for-the-badge&logo=codepipeline&logoColor=white" height="40" alt="CodePipeline logo" />
 </div>
 
 <br>
