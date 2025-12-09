@@ -105,17 +105,12 @@
 
 <h3 align="center">📊 GitHub 통계 및 활동 (Stats & Activity)</h3>
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=radical&hide_border=true&count_private=true&token=${{ secrets.STATS_PAT }}" alt="noino0819's GitHub Stats"/>
+    <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/noino0819/noino0819/main/metrics.svg" alt="noino0819's GitHub Stats"/>
   </a>
-  <img width="20" /> 
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noino0819&layout=compact&theme=radical&hide_border=true&token=${{ secrets.STATS_PAT }}" alt="Top Languages"/>
-  </a>
-</div>
+  </div>
 
 <br>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=noino0819&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
