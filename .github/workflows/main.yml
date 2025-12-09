@@ -1,17 +1,17 @@
-name: Generate Profile Metrics
+name: Generate Profile Metrics & Pacman
 
 on:
   schedule: # 매일 자동 실행
     - cron: "0 */24 * * *"
   workflow_dispatch: # 수동 실행 허용
-  push: # main 브랜치 푸시 시 실행
+  push:
     branches:
     - main
 
 jobs:
   generate:
     permissions:
-      contents: write # 파일 쓰기 권한
+      contents: write 
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -19,42 +19,46 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
       
-      # 🌟 [추가] 1. GitHub Stats 및 Top Languages 카드 생성
-      - name: Generate GitHub Stats and Top Languages
-        # metrics Action을 사용합니다.
+      # 🌟 [수정] 1. Metrics Action (Stats 및 Languages 통합) 실행
+      # 이 Action은 토큰을 사용하여 통계를 생성하고, .github/metrics.svg에 저장합니다.
+      - name: Generate Combined Metrics Card
         uses: lowlighter/metrics@latest
         with:
-          # STATS_PAT Secret을 사용하여 API Rate Limit 문제를 해결합니다.
+          # STATS_PAT Secret 사용 (API Rate Limit 문제 해결)
           token: ${{ secrets.STATS_PAT }} 
           
-          # output 디렉토리 및 파일 이름 설정
-          output_path: output
+          # 출력 파일명 지정
+          filename: metrics.svg 
           
-          # 생성할 플러그인 설정 (Stats, Top Languages)
-          plugin_github_stats: yes
+          # 사용할 플러그인과 스타일 설정
           plugin_languages: yes
+          plugin_github_stats: yes
           
-          # 카드 스타일 설정 (README.md의 테마와 일치시키세요)
-          plugin_github_stats_theme: radical
-          plugin_languages_theme: radical
+          # README.md에서 사용하던 radical 테마와 유사한 설정을 적용합니다.
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_ignored: javascript, html, css # 예시: 원치 않는 언어 제외 가능
+          config_display: columns
+          config_scale: 1.2
           
-          # 기타 설정
-          commits_authoring: ${{ github.repository_owner }}
-          base_branch: output
+          # GitHub Stats와 Languages를 모두 포함하는 설정입니다.
+          plugin_config_colors: github # GitHub 기본 색상 사용
+          
+          # Action은 기본적으로 main 브랜치에 커밋하므로, 별도 push step은 제거합니다.
 
-      # 🌟 [기존 Pacman] 2. Pacman 그래프 생성
+
+      # 2. Pacman 그래프 생성 (기존 코드 유지)
+      # Pacman Action은 여전히 dist 경로에 SVG를 생성합니다.
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          
-      # 🌟 [푸시] 3. 생성된 파일들을 output 브랜치로 푸시
-      # (metrics Action은 output 경로에, pacman Action은 dist 경로에 출력합니다.)
-      - name: Push generated files to the output branch
+
+      # 3. Pacman SVG를 output 브랜치로 푸시 (Metrics는 main 브랜치에 커밋)
+      - name: Push Pacman SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          # output과 dist 디렉토리를 모두 포함하도록 설정 (GitHub Pages Action의 기능)
-          build_dir: .
+          build_dir: dist # Pacman이 dist에 저장하므로 dist만 푸시
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
