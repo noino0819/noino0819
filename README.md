@@ -9,7 +9,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph.svg">
 </picture>
----
 <h2 align="center"> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="35" height="35" style="vertical-align: middle;" /> 
     My Skill Stack 
