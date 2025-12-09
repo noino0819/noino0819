@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Read.Me🐰</h1>
+  <h1>Read.Me</h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />
+  <h3> 반가워요 반가워 ! </h3>
+  <h3> 세상을 바꾸는것에 관심있다면 연락주세요 ,, </h3>
 </div>
 
 ---
