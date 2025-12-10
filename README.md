@@ -105,16 +105,35 @@
 
 <h3 align="center">📊 GitHub 통계 및 활동 (Stats & Activity)</h3>
 <div align="center">
-    <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/noino0819/noino0819/main/metrics.svg" alt="noino0819's GitHub Stats"/>
-  </a>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 <br>
+
+<h3 align="center">🎨 다양한 GitHub Stats 테마 엿보기 (Themes)</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=noino0819&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=dark" alt="dark theme" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=default" alt="default theme" width="400" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=merko" alt="merko theme" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=tokyonight" alt="tokyonight theme" width="400" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=onedark" alt="onedark theme" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noino0819&show_icons=true&theme=cobalt" alt="cobalt theme" width="400" />
+</div>
+<br>
+
+<h3 align="center">🔥 커밋 연속 기록 (Streak & Activity)</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
 <br>
 
 ---
