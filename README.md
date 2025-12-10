@@ -100,10 +100,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman logo" />
 </div>
-
----
-
-<h3 align="center">📊 GitHub 통계 및 활동 (Stats & Activity)</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
