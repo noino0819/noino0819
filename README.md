@@ -114,15 +114,15 @@
 
 <h3 align="center">📫 Contact & Social 📫</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/%EC%8B%9C%EC%96%B8-%EC%B5%98-77b9a5248/" target="_blank" style="text-decoration: none; outline: none;">
+    <a href="https://www.linkedin.com/in/%EC%8B%9C%EC%96%B8-%EC%B5%98-77b9a5248/" target="_blank" style="text-decoration: none !important; outline: none !important;">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" style="border: none;" />
     </a>
     <img width="10" />
-    <a href="https://www.notion.so/ReadMe-734bca0ee960493fa8bcdb0917287927?source=copy_link" target="_blank" style="text-decoration: none; outline: none;">
+    <a href="https://www.notion.so/ReadMe-734bca0ee960493fa8bcdb0917287927?source=copy_link" target="_blank" style="text-decoration: none !important; outline: none !important;">
         <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="notion logo" style="border: none;" />
     </a>
     <img width="10" />
-    <a href="mailto:naver0819@naver.com" style="text-decoration: none; outline: none;">
+    <a href="mailto:naver0819@naver.com" style="text-decoration: none !important; outline: none !important;">
         <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="25" alt="naver email logo" style="border: none;" />
     </a>
 </div>
