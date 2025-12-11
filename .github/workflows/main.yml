@@ -2,7 +2,7 @@ name: Generate Profile Metrics & Pacman
 
 on:
   schedule: # 매일 자동 실행
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"  # 매일 00:00 UTC에 실행
   workflow_dispatch: # 수동 실행 허용
   push:
     branches:
