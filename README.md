@@ -112,7 +112,7 @@
 <h3 align="center">📫 Contact & Social 📫</h3>
 <div align="center">
   <img src="./noino_portofolio.png" width="130" alt="Blog QR Code" />
-  <p>스캔하여 블로그의 최신 글을 확인해보세요!</p>
+  <p>좀 더 재밌게 포토폴리오 보기</p>
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/%EC%8B%9C%EC%96%B8-%EC%B5%98-77b9a5248/" target="_blank" style="text-decoration: none !important; outline: none !important;">
