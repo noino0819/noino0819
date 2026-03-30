@@ -107,8 +107,6 @@
 
 <br>
 
----
-
 <h3 align="center">📫 Contact & Social 📫</h3>
 <div align="center">
   <img src="./noino_portofolio.png" width="130" alt="Blog QR Code" />
