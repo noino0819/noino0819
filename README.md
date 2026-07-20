@@ -10,7 +10,6 @@
   <h3> 반가워요 ! 같이 하나씩 바꿔볼까요 ? </h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" alt="Hamburger" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/French%20Fries.png" alt="French Fries" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pizza.png" alt="Pizza" width="25" height="25" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph-dark.svg">
@@ -18,7 +17,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noino0819/noino0819/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="35" height="35" style="vertical-align: middle;" />
@@ -67,7 +65,6 @@
   <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" style="vertical-align: middle;" />
@@ -75,10 +72,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" style="vertical-align: middle;" />
 </h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&hide_border=false&border_radius=5&background=0D1117&border=FFE400&ring=FFE400&fire=FF0000&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FFE400&sideLabels=FFB8FF&dates=888888&stroke=FFE400" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="35" height="35" style="vertical-align: middle;" />
@@ -102,7 +98,6 @@
     </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <div align="center">
   <picture>
