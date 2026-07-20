@@ -18,41 +18,74 @@
 </picture>
 
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="35" height="35" style="vertical-align: middle;" />
-  SKILL INVENTORY
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" style="vertical-align: middle;" />
-</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="35" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FFE400&center=true&vCenter=true&width=380&height=40&repeat=false&lines=SKILL+INVENTORY">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FF0000&center=true&vCenter=true&width=380&height=40&repeat=false&lines=SKILL+INVENTORY" alt="SKILL INVENTORY" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" />
+</div>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" style="vertical-align: middle;" /> STAGE 1 · 언어 & 프레임워크</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=8BE9FD&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+1+-+LANGUAGES">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=0284C7&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+1+-+LANGUAGES" alt="STAGE 1 - LANGUAGES" />
+  </picture>
+</div>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,js,ts&theme=dark" alt="languages" /></a>
 </div>
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" style="vertical-align: middle;" /> STAGE 2 · 프론트엔드 & 웹</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=8BE9FD&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+2+-+FRONTEND+%26+WEB">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=0284C7&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+2+-+FRONTEND+%26+WEB" alt="STAGE 2 - FRONTEND &amp; WEB" />
+  </picture>
+</div>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vue,nodejs,html,css,tailwind,bootstrap&theme=dark" alt="frontend" /></a>
 </div>
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25" style="vertical-align: middle;" /> STAGE 3 · 데이터베이스</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=8BE9FD&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+3+-+DATABASES">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=0284C7&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+3+-+DATABASES" alt="STAGE 3 - DATABASES" />
+  </picture>
+</div>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb&theme=dark" alt="databases" /></a>
 </div>
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" style="vertical-align: middle;" /> STAGE 4 · 클라우드 & 인프라</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=8BE9FD&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+4+-+CLOUD+%26+INFRA">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=0284C7&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+4+-+CLOUD+%26+INFRA" alt="STAGE 4 - CLOUD &amp; INFRA" />
+  </picture>
+</div>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="cloud" /></a>
 </div>
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" style="vertical-align: middle;" /> STAGE 5 · 도구 & 협업</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=8BE9FD&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+5+-+TOOLS+%26+COLLAB">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=0284C7&center=true&vCenter=true&width=420&height=30&repeat=false&lines=STAGE+5+-+TOOLS+%26+COLLAB" alt="STAGE 5 - TOOLS &amp; COLLAB" />
+  </picture>
+</div>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,figma,notion,postman&theme=dark" alt="tools" /></a>
 </div>
@@ -66,20 +99,45 @@
 </div>
 
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" style="vertical-align: middle;" />
-  HIGH SCORE
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" style="vertical-align: middle;" />
-</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FFE400&center=true&vCenter=true&width=520&height=40&repeat=false&lines=NOW+PLAYING+-+MY+SERVICES">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FF0000&center=true&vCenter=true&width=520&height=40&repeat=false&lines=NOW+PLAYING+-+MY+SERVICES" alt="NOW PLAYING - MY SERVICES" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
+</div>
+<div align="center">
+  <a href="https://jlpt-rpg.vercel.app" target="_blank"><img src="./cards/jlpt-rpg.svg" width="380" alt="JLPT RPG" /></a>
+  <a href="https://zipbriefing.vercel.app" target="_blank"><img src="./cards/zipbriefing.svg" width="380" alt="집브리핑" /></a>
+  <br>
+  <a href="https://yeoneo.vercel.app" target="_blank"><img src="./cards/yeoneo.svg" width="380" alt="Yeoneo" /></a>
+  <a href="https://portopolio-box.vercel.app" target="_blank"><img src="./cards/portopolio-box.svg" width="380" alt="Portopolio Box" /></a>
+  <br>
+  <a href="https://taxpayer.vercel.app" target="_blank"><img src="./cards/taxpayer.svg" width="380" alt="Taxpayer" /></a>
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FFE400&center=true&vCenter=true&width=300&height=40&repeat=false&lines=HIGH+SCORE">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FF0000&center=true&vCenter=true&width=300&height=40&repeat=false&lines=HIGH+SCORE" alt="HIGH SCORE" />
+  </picture>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noino0819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="35" height="35" style="vertical-align: middle;" />
-  CONTINUE ? · Contact & Social
-</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="35" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FFE400&center=true&vCenter=true&width=460&height=40&repeat=false&lines=CONTINUE+%3F+-+CONTACT">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&color=FF0000&center=true&vCenter=true&width=460&height=40&repeat=false&lines=CONTINUE+%3F+-+CONTACT" alt="CONTINUE ? - CONTACT" />
+  </picture>
+</div>
 <div align="center">
   <img src="./noino_portofolio.png" width="130" alt="Blog QR Code" />
   <p>좀 더 재밌게 포트폴리오 보기</p>
